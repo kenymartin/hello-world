@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\bin\Debug\DavenPortExercises.exe.config
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\bin\Debug\DavenPortExercises.exe
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\bin\Debug\DavenPortExercises.pdb
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\obj\Debug\DavenPortExercises.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\obj\Debug\DavenPortExercises.exe
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\obj\Debug\DavenPortExercises.pdb
+C:\Users\ADMIN\Source\Repos\DavenPortExercises\DavenPortExercises\obj\Debug\DavenPortExercises.csprojResolveAssemblyReference.cache
